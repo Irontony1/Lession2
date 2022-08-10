@@ -26,7 +26,7 @@
 
 # Заголовки 
 
-# Заголовок 1 
+# Заголовок 1
 ## Заголовок 2
 ### Заголовок 3
 #### Заголовок 4
@@ -60,7 +60,15 @@
  
 # Ссылки
 
-[Ссылка на Справочник по разметке Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
+[Обычная ссылка в строке](https://www.google.com)
+
+[Обычная ссылка с title](https://www.google.com "Сайт Google")
+
+[Относительная ссылка на документ](Hello_world.txt)
+
+Или можно просто вставить ссылку в квадратные скобки [Ссылка на cправочник по разметке Markdown]
+
+[Ссылка на cправочник по разметке Markdown]: https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
 # Изображения
 
