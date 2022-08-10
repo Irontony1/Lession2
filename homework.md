@@ -1,4 +1,4 @@
-# **Основные команды Git**
+## **Основные команды Git**
 
 * **git init** - добавление функции контроля версий к репозиторию (папке)
 
@@ -16,18 +16,30 @@
 
 * **git diff** _хеш-код коммита_ - увидеть разницу между текущей версией и выбранным коммитом 
 
-Еще **Markdown** поддерживает картинки: 
+# Заголовки 
+
+# Выделения
+
+# Списки 
+
+# Ссылки
+
+[Ссылка на Справочник по разметке Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
+
+# Изображения
 
 ![alt-текст](https://wordlesstech.com/wp-content/uploads/2017/12/How-Machines-Learn-video-1.jpg "Это я")
 
-И даже __GIF__: 
-
 ![alt-текст](https://i.yapx.cc/HRHJQ.gif "И это тоже я")
 
-Еще можно оставлять __ссылки__. Например на web страницу: 
+# Подсветка кода
 
-[Ссылка на Справочник по разметке Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference),
+# Таблицы 
 
-или на видео в ютубе =)
+# Цитаты 
+
+# Горизонтальные линии 
+
+# Видео YouTube
 
 [![Gandalf Sax Guy 10 Hours HD](https://img.youtube.com/vi/G1IbRujko-A/0.jpg)](https://youtu.be/G1IbRujko-A "Gandalf Sax Guy 10 Hours HD")
