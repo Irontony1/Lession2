@@ -64,9 +64,11 @@
 
 # Изображения
 
-![alt-текст](https://wordlesstech.com/wp-content/uploads/2017/12/How-Machines-Learn-video-1.jpg "Это я")
+Добавление картинки из репозитория:
+![Тект при отсутствии изображения](How-Machines-Learn.png "Это я")
 
-![alt-текст](https://i.yapx.cc/HRHJQ.gif "И это тоже я")
+Добавление GIF-картинки из интернета:
+![Тект при отсутствии изображения](https://i.yapx.cc/HRHJQ.gif "И это тоже я")
 
 # Подсветка кода
 
