@@ -123,6 +123,20 @@ Markdown | не такой | красивый
 
 # Горизонтальные линии 
 
+Три и более...
+
+---
+
+Дефисы
+
+***
+
+Звездочки
+
+___
+
+Подчеркивания
+
 # Видео YouTube
 
 [![Gandalf Sax Guy 10 Hours HD](https://img.youtube.com/vi/G1IbRujko-A/0.jpg)](https://youtu.be/G1IbRujko-A "Gandalf Sax Guy 10 Hours HD")
